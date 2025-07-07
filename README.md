@@ -6,7 +6,7 @@ I'm a passionate UI/UX designer, frontend developer, and public speaker with exp
 
 ## 🏅 Hackathon Achievements:
 - 🥇 **1st Prize** - CIH 2.0 Nagpur
-- 🥉 **3rd Prize** - Ideathon 2.0 Mumbai
+- 🥉 **3rd Prize** - Ideation 2.0 Mumbai
 - 🥈 **2nd Prize** - DIPEX 2025
 - 🥇 **1st Prize** - MKD Spark Nandurbar
 - 🥉 **2nd Runner Up** - Hack The Gap
