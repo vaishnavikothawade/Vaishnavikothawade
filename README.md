@@ -1,11 +1,12 @@
 # 💫 About Me:
-# 🏆 7x Hackathon + Ideathon Winner 
-# UI/UX Designer | Frontend Developer | Team Pravartak Lead
+# 🏆 8x Hackathon + Ideathon Winner 
+# UI/UX Designer | Team Pravartak Lead
 👋 Hi there, I'm VAISHNAVI KOTHAWADE!<br><br>
-I'm a passionate UI/UX designer, frontend developer, and public speaker with expertise in creating intuitive digital experiences. As the lead of Team Pravartak, I combine my technical skills with leadership to drive innovative projects.<br><br>
+I'm a passionate UI/UX designer, and public speaker with expertise in creating intuitive digital experiences. As the lead of Team Pravartak, I combine my technical skills with leadership to drive innovative projects.<br><br>
 
 ## 🏅 Hackathon Achievements:
 - 🥇 **1st Prize** - CIH 2.0 Nagpur
+- 🥇 **2nd Prize** - I.D.E.A 2025 Mumbai
 - 🥉 **3rd Prize** - Ideation 2.0 Mumbai
 - 🥈 **2nd Prize** - DIPEX 2025
 - 🥇 **1st Prize** - MKD Spark Nandurbar
@@ -15,7 +16,6 @@ I'm a passionate UI/UX designer, frontend developer, and public speaker with exp
 
 🔭 What I'm Currently Working On<br>
 - Designing user-centric interfaces with Figma<br>
-- Developing responsive web applications using React<br>
 - Leading and mentoring Team Pravartak<br>
 - Enhancing my public speaking and presentation skills<br><br>
 
@@ -26,7 +26,6 @@ I'm a passionate UI/UX designer, frontend developer, and public speaker with exp
 - Public speaking engagements<br><br>
 
 🌱 What I'm Currently Learning<br>
-- Advanced React patterns<br>
 - UX research methodologies<br>
 - Leadership strategies for tech teams<br><br>
 
@@ -50,7 +49,6 @@ Let's connect and create amazing digital experiences together!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
